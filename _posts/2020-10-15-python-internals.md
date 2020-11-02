@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "My First Post"
+title:  "Objects in Python"
+author: "Ashraf Ahmed"
 ---
 
 # My first post
