@@ -1,4 +1,12 @@
-## My first work
+---
+layout: post
+title:  "About Me"
+---
+
+Hi, my name is
+## Ashraf Ahmed**
+> I study to understand the brain
+---
 
 You can use the [editor on GitHub](https://github.com/RealAshrafAhmed/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
