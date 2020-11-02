@@ -9,7 +9,7 @@ In the early days of programming, all software programs were composed of variabl
 ## What is an Object 
 Everything in Python is an object. Even the literal expressions 1 and True. Below is an example of different object types 
   
-```
+```python
 >>> type(1) 
 
 <class 'int'> 
@@ -37,7 +37,7 @@ Everything in Python is an object. Even the literal expressions 1 and True. Belo
  
 Quickly you will notice that objects and classes are connected. Classes are like building blue prints while objects are the buildings themselves. To create an object you need to build using the blueprint. The help built-in function, gives you information about the class a given object is "instantiated" from. 
 
-```
+```python
 >>> help(1) 
 
 Help on int object: 
@@ -67,7 +67,7 @@ Similarly, you can get more information about bool objects:
 Help on bool object: 
 
   
-```
+```python
 >>> help(True) 
 
 class bool(int) 
@@ -89,7 +89,7 @@ class bool(int)
 You can even use help to get information about a given method in a class 
 
   
-```
+```python
 >>> help(np.array.__sizeof__) 
 
   
@@ -109,7 +109,7 @@ __sizeof__(...) method of builtins.builtin_function_or_method instance
 The dir built-in function, gives you a list of the methods and the attributes a class has. 
 
   
-```
+```python
 >>> dir(1) 
 
 ['__abs__', '__add__', '__and__', '__bool__', '__ceil__', '__class__', '__delattr__', '__dir__', '__divmod__', '__doc__', '__eq__', '__float__', '__floor__', '__floordiv__', … etc] 
@@ -129,7 +129,7 @@ Clearly, this shouldn't be your main source of information but it can be very ha
 There are 2 ways to call methods of an object. The first is to use the dot shorthand notation: 
 
   
-```
+```python
 >>> print("hello there!".upper()) 
 
 HELLO THERE! 
@@ -139,7 +139,7 @@ HELLO THERE!
 It is very natural to do that but it doesn't exactly tell you how did that upper method exist in the first place. Another is using a functional style: 
 
   
-```
+```python
 >>> print(str.upper("hello there!")) 
 
 HELLO THERE! 
@@ -153,7 +153,7 @@ The functional style makes it clear that object methods are nothing but function
 It might not be clear how an expression such as 1+3 translates to objects and methods. One way to think about that expression is that we are using the integer value of the object on the left, adding to it the value of the integer on the right and returning a new integer object. The following snippet is equivalent: 
 
  
-```
+```python
 >>> print(int.__add__(1,3)) 
 
 4 
@@ -163,7 +163,7 @@ It might not be clear how an expression such as 1+3 translates to objects and me
 Which is equivalent to 
 
  
-```
+```python
 >>> print(int(1).__add__(1)) 
 
 2 
@@ -171,7 +171,7 @@ Which is equivalent to
 This is exactly what python does under the hood when you evaluate 1 + 3. Almost all mathematical and logical operators have equivalent hidden methods that are invoked under the hood. Another example is the value of 1 < 3. This is its equivalent: 
 
   
-```
+```python
 >>> print(int.__lt__(1,3)) 
 
 True 

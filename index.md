@@ -10,5 +10,5 @@ I am a student of Statistics and Neuroscience based in Toronto, ON, Canada. If I
 - June 2nd, 2019: [Modelling Integrate and Fire neurons](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/02-06-2019-IF-models.ipynb)
 
 ### Posts
-- October 15th, 2020: [Python Objects under 10 minutes](_posts/2020-10-02-python-objects-under-10-mins.md)
-- October 2nd, 2020: [Python Objects under 10 minutes](_posts/2020-10-02-for-while.md)
+- October 15th, 2020: [Python Objects under 10 minutes](_posts/2020-10-02-for-while.md)
+- October 2nd, 2020: [Python Objects under 10 minutes](_posts/2020-10-02-python-objects-under-10-mins.md)
