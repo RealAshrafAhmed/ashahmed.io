@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: post
-title:  "Get In Touch"
---- -->
+title:  "Posts"
+---
 
-## My first work
+## My first post
 
 You can use the [editor on GitHub](https://github.com/RealAshrafAhmed/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
