@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-remote_theme: poole/hyde
+remote_theme: mmistakes/minimal-mistakes
 #remote_theme: poole/hyde
 title: Ashraf Ahmed's Portfolio
 description: A jekyll themed portfolio site that contains information about my coding experience, background and relevant professional information.
