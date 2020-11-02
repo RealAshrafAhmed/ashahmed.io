@@ -15,3 +15,4 @@ description: A jekyll themed portfolio site that contains information about my c
 #     - about.md
 #     - portfolio.md
 #     - projects.md
+theme: jekyll-theme-minimal
