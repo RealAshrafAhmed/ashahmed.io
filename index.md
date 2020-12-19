@@ -17,4 +17,4 @@ I am a student of Statistics and Neuroscience based in Toronto, ON, Canada. If I
 
 ### Posts
 - October 15th, 2020: [Python Objects under 10 minutes](_posts/2020-10-02-for-while.md)
-- October 2nd, 2020: [Python Objects under 10 minutes](_posts/2020-10-02-python-objects-under-10-mins.md)
+- October 2nd, 2020: [Beginers Python: For loops, while loops, and list comprehensions. Why do we need so many iterative instructions?](_posts/2020-10-02-python-objects-under-10-mins.md)
