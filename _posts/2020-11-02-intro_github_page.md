@@ -6,7 +6,7 @@ author: "Ashraf Ahmed"
 
 At a first glance Github pages might seem a little magical. In order to fully understand how github pages work you need to know a little bit about the static site generator being used behind the scene. Under the hood, Github pages use a static site theme generated called Jekyll. At its core, Jekyll translates files written in either HTML or Markup languages into HTML Web Page which you can view from any web browser.  
 
-Jekyll themes are templates which you can use to give your site a specific look and feel. There are a lot of Jekyll themes out there https://jekyllthemes.io/. Github only supports a fraction of those themes by default as outlined in the Supported Themes webpage. You can create your theme from scratch if you know enough about HTML, Cascading Style Sheets, and Ruby. However, you don't need to know any of that to use them.  
+Jekyll themes are templates which you can use to give your site a specific look and feel. There are a lot of Jekyll themes out there [https://jekyllthemes.io/](https://jekyllthemes.io/). Github only supports a fraction of those themes by default as outlined in the Supported Themes webpage. You can create your theme from scratch if you know enough about HTML, Cascading Style Sheets, and Ruby. However, you don't need to know any of that to use them.  
 
 ##Jekyll Fundamentals 
 To fully become productive in github pages, there are a few Jekyll concepts that you should be familiar with. Mainly: 
@@ -17,7 +17,7 @@ To fully become productive in github pages, there are a few Jekyll concepts that
 
 This post is to provide a lightweight treatment of those concepts. For more in depth information, take a look at the Jekyll walkthrough videos. 
 
-When you first enable github pages on a given github repository, github adds a _config.yml file to the root of your repository. Here is an example of the config file in my portfolio: 
+When you first enable github pages on a given github repository, github adds a *_config.yml* file to the root of your repository. Here is an example of the config file in my portfolio: 
 ```
 title: About Me 
 description: Technology Entrepreneur, Software Architect Freelancer, Student of Statistics, Neuroscience, and Machine Learning. 
@@ -44,7 +44,7 @@ This block tells Jekyll that the page that contain that text should be laid out 
 Jekyll is a very advanced, powerful, site generated with many out of the box themes to use. You don't need to be an expert in web technologies in order to create a site. The following tutorials cover Jekyll and github pages to a great length. 
 
 - [Building static sites with Jekyll](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
-- [https://medium.com/@jarednutt27/building-a-portfolio-site-or-github-and-jekyll-match-made-in-heaven-13139b768f54]
-- [https://yannherklotz.com/blog/2018-07-08-jekyll-for-portfolio-website.html ]
+- [Building a portfolio site](https://medium.com/@jarednutt27/building-a-portfolio-site-or-github-and-jekyll-match-made-in-heaven-13139b768f54)
+- [Jekyll for Portfolio Website](https://yannherklotz.com/blog/2018-07-08-jekyll-for-portfolio-website.html)
 
  
