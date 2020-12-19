@@ -16,5 +16,6 @@ I am a student of Statistics and Neuroscience based in Toronto, ON, Canada. If I
 - May 16th, 2019: [Neuron's Passive Membrane Potential Games](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/passive_membrne.ipynb)
 
 ### Posts
-- October 15th, 2020: [Python Objects under 10 minutes](_posts/2020-10-02-for-while.md)
-- October 2nd, 2020: [Beginers Python: For loops, while loops, and list comprehensions. Why do we need so many iterative instructions?](_posts/2020-10-02-python-objects-under-10-mins.md)
+- October 15th, 2020: [Github Pages and Jekyll](_posts/2020-10-02-python-objects-under-10-mins.md)
+- October 15th, 2020: [Python Objects under 10 minutes](_posts/2020-10-02-python-objects-under-10-mins.md)
+- October 2nd, 2020: [Beginners Python: For loops, while loops, and list comprehensions. Why do we need so many iterative instructions?](_posts/2020-10-02-for-while.md)
