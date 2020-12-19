@@ -6,6 +6,7 @@ I am a student of Statistics and Neuroscience based in Toronto, ON, Canada. If I
 
 [Get in Touch](mailto:z@ashahmed.io)  
 ### Projects
+- December 16th, 2020: [Neuron's Passive Membrane Potential Games](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/passive_membrne.ipynb)
 - December 12th, 2020: [Plotting Games: 3D Mesh, Contours, and Heatmaps](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/Plot_Games.ipynb)
 - October 27th, 2020: [Impact of Flankers congruency and Simon compatibility on response time](_posts/2020-10-27-flankers-vs-simon.md)
 - June 2nd, 2019: [Modelling Integrate and Fire neurons](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/02-06-2019-IF-models.ipynb)
