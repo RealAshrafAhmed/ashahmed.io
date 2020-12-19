@@ -11,7 +11,6 @@ I am a student of Statistics and Neuroscience based in Toronto, ON, Canada. If I
 - December 12th, 2020: [Plotting Games: 3D Mesh, Contours, and Heatmaps](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/Plot_Games.ipynb)
 - June 21st, 2019: [NESC4177 Project: Ishkevich Population Dynamics](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/neurocomputing_project1.ipynb)
 - June 11th, 2019: [Ishkevich Neuron Spiking Simulation](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/Ishkevich_sim.ipynb)
-- June 2nd, 2019: [Modelling Integrate and Fire neurons](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/02-06-2019-IF-models.ipynb)
 - May 16th, 2019: [Neuron's Passive Membrane Potential Games](https://github.com/RealAshrafAhmed/ashahmed.io/blob/main/colab/passive_membrne.ipynb)
 
 ### Posts
