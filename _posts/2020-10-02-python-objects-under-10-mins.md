@@ -11,27 +11,16 @@ Everything in Python is an object. Even the literal expressions 1 and True. Belo
   
 ```python
 >>> type(1) 
-
 <class 'int'> 
-
 >>> type(1.0) 
-
-<class 'float'> 
-
->>> type('This is a string') 
-
-<class 'str'> 
-
+<class 'float'>
+>>> type('This is a string')
+<class 'str'>
 >>> type(True) 
-
 <class 'bool'> 
-
->>> type(True == False) 
-
-<class 'bool'> 
-
->>> type(np.array(range(10))) 
-
+>>> type(True == False)
+<class 'bool'>
+>>> type(np.array(range(10)))
 <class 'numpy.ndarray'> 
 ```
  
@@ -58,15 +47,9 @@ class int(object)
 
  |  numbers, this truncates towards zero. 
 ```
- 
-
 Similarly, you can get more information about bool objects: 
 
-  
-
-Help on bool object: 
-
-  
+Help on bool object:   
 ```python
 >>> help(True) 
 
@@ -84,11 +67,7 @@ class bool(int)
 
 …etc 
 ```
-  
-
 You can even use help to get information about a given method in a class 
-
-  
 ```python
 >>> help(np.array.__sizeof__) 
 
@@ -104,11 +83,7 @@ __sizeof__(...) method of builtins.builtin_function_or_method instance
 
     size of object in memory, in bytes 
 ```
-  
-
 The dir built-in function, gives you a list of the methods and the attributes a class has. 
-
-  
 ```python
 >>> dir(1) 
 
@@ -120,63 +95,42 @@ The dir built-in function, gives you a list of the methods and the attributes a 
 
 ['T', '__abs__', '__add__', '__and__', '__array__', '__array_finalize__', '__array_function__', '__array_interface__', '__array_prepare__', '__array_priority__', …] 
 ```
-  
-
 Clearly, this shouldn't be your main source of information but it can be very handy if you want to quickly check if a given class/object has a given method or the meaning of a method or an attribute. 
 
 ### Calling an Object method 
-
 There are 2 ways to call methods of an object. The first is to use the dot shorthand notation: 
-
-  
 ```python
 >>> print("hello there!".upper()) 
 
 HELLO THERE! 
 ```
-  
-
 It is very natural to do that but it doesn't exactly tell you how did that upper method exist in the first place. Another is using a functional style: 
-
-  
 ```python
 >>> print(str.upper("hello there!")) 
 
 HELLO THERE! 
 ```
-  
-
 The functional style makes it clear that object methods are nothing but functions defined within a class scope. 
 
 #### Mathematical and Logical operators on object methods 
-
 It might not be clear how an expression such as 1+3 translates to objects and methods. One way to think about that expression is that we are using the integer value of the object on the left, adding to it the value of the integer on the right and returning a new integer object. The following snippet is equivalent: 
-
- 
 ```python
 >>> print(int.__add__(1,3)) 
 
 4 
 ```
-  
-
 Which is equivalent to 
-
- 
 ```python
 >>> print(int(1).__add__(1)) 
 
 2 
 ```
 This is exactly what python does under the hood when you evaluate 1 + 3. Almost all mathematical and logical operators have equivalent hidden methods that are invoked under the hood. Another example is the value of 1 < 3. This is its equivalent: 
-
-  
 ```python
 >>> print(int.__lt__(1,3)) 
 
 True 
 ```
-
 There is really nothing especial about any of the shorthand operators that we use on daily basis. They are just class methods that the python interpreter knows how to translate. It is nothing but syntactical sugar. 
 
 ### More Information 
