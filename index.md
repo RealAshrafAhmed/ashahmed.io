@@ -2,7 +2,7 @@ Hi, my name is
 ## Ashraf Ahmed
 # I study the brain to learn about general intelligence and abstract reasoning
 
-I am a student of Statistics and Neuroscience based in Toronto, ON, Canada. If I’m not studying, I freelance as a software architect especializing in realtime data processing, distributed systems architecture, and data engineering. IF i'm not studying or working, I'll be running around with my red heeler Luna.
+I am a student of Statistics and Neuroscience based in Toronto, ON, Canada. If I’m not studying, I freelance as a software architect especializing in realtime data processing, distributed systems architecture, and data engineering. If i'm not studying or working, I'll be running around with my red heeler Luna.
 
 [Get in Touch](mailto:z@ashahmed.io)  
 ### Projects
