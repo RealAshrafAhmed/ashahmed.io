@@ -8,7 +8,7 @@ At a first glance Github pages might seem a little magical. In order to fully un
 
 Jekyll themes are templates which you can use to give your site a specific look and feel. There are a lot of Jekyll themes out there [https://jekyllthemes.io/](https://jekyllthemes.io/). Github only supports a fraction of those themes by default as outlined in the Supported Themes webpage. You can create your theme from scratch if you know enough about HTML, Cascading Style Sheets, and Ruby. However, you don't need to know any of that to use them.  
 
-##Jekyll Fundamentals 
+## Jekyll Fundamentals 
 To fully become productive in github pages, there are a few Jekyll concepts that you should be familiar with. Mainly: 
 - Configuration 
 - Pages 
