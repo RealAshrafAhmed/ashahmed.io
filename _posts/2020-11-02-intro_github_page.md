@@ -27,7 +27,9 @@ logo: [https://avatars3.githubusercontent.com/u/16357832?s=400&u=236b9145f6e5111
 
 Here, the title is the site's main title which would be displayed at different parts of your site based on which theme do you choose. Here, I've used the minimal theme which is one of the simplest themes out there. 
 Every theme can have different configuration. Note that my configuration includes a logo field which tells the theme where to get my logo which is displayed on the left hand menu of the generated site. 
+
 Pages are the simplest form of content you can have in a site. They can be either in HTML or Markup. Markup pages are a little more restricted because Markup languages are very inflexible. For instance, you can't include different colors words in the same paragraph if you are using a markup page but you sure can do that in HTML pages. The site theme you choose is the one in control in terms of how to layout the content within a page and which font or what text color to use. One of the advances of Jekyll is that you can include pages in either html or markup in the same site without problems. 
+
 Jekyll was created to simplify creating blogs. In Jekyll, a Post is a special type of a page. It is exactly a blog post that includes things like a title, date, picture and body. A post page must follow certain rules in order for Jekyll to better understand your post and render it into an HTML page correctly.  
 Finally, Front matter is used in order to provide metadata about your page. For instance, let's say you are using a theme that includes a top level navigation menu. You can tell Jekyll which pages to include in the navigation menu by including a block of text at the top of your page. The following is an example taken from my portfolio: 
 
