@@ -40,8 +40,9 @@ title:  "About Me"
 
 This block tells Jekyll that the page that contain that text should be laid out in the default navigation menu and the link should be called "About Me". 
 Jekyll is a very advanced, powerful, site generated with many out of the box themes to use. You don't need to be an expert in web technologies in order to create a site. The following tutorials cover Jekyll and github pages to a great length. 
--[https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages]
--[https://medium.com/@jarednutt27/building-a-portfolio-site-or-github-and-jekyll-match-made-in-heaven-13139b768f54]
--[https://yannherklotz.com/blog/2018-07-08-jekyll-for-portfolio-website.html ]
+
+- (https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+- [https://medium.com/@jarednutt27/building-a-portfolio-site-or-github-and-jekyll-match-made-in-heaven-13139b768f54]
+- [https://yannherklotz.com/blog/2018-07-08-jekyll-for-portfolio-website.html ]
 
  
