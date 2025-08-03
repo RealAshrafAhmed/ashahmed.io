@@ -1,3 +1,4 @@
-published at https://realashrafahmed.github.io/portfolio/
-# portfolio
-Ashraf Ahmed's Portfolio,
+Courtesy of [gregorygundersen.com/blog](http://gregorygundersen.com/blog/).
+
+To run this site locally: 
+<code>bundle exec jekyll serve</code>
