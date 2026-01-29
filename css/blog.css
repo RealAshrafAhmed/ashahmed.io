@@ -93,6 +93,14 @@ h1 {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
+.front-matter .series {
+  margin: 0 0 8px 0;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.55);
+}
 .front-matter h4 {
   font-family: -apple-system, Helvetica, arial, sans-serif;
 }
@@ -215,6 +223,15 @@ h1 {
   margin-top: 0;
   margin-bottom: 25px;
   line-height: 1.5em;
+}
+#blog .post-series {
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.55);
+  margin-top: -2px;
+  margin-bottom: 6px;
 }
 #blog .year {
   font-size: 18px;
