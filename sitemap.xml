@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/2025/08/02/nn-as-statistical-model-supervised-learning-induced-conditional-distribution/</loc>
+<loc>http://ashahmed.io/blog/2025/08/02/nn-as-statistical-model-supervised-learning-induced-conditional-distribution/</loc>
 <lastmod>2025-08-02T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>http://ashahmed.io/blog/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://ashahmed.io/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publications/</loc>
+<loc>http://ashahmed.io/publications/</loc>
 </url>
 </urlset>
